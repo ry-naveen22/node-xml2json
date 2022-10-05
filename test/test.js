@@ -3,8 +3,8 @@ var path = require('path');
 var parser = require(__dirname + '/../lib');
 var assert = require('assert');
 
-var Code = require('code');
-var Lab = require('lab');
+var Code = require('@hapi/code');
+var Lab = require('@hapi/lab');
 
 
 // Test shortcuts
